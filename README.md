@@ -1,4 +1,7 @@
-Machine Learning Engineer -------------------------  * 🌍  I'm based in Barcelona * ✉️  You can contact me at [demetredzmanashvili@gmail.com](mailto:demetredzmanashvili@gmail.com)
+Machine Learning Engineer 
+
+* 🌍  I'm based in Barcelona 
+* ✉️  You can contact me at [demetredzmanashvili@gmail.com](mailto:demetredzmanashvili@gmail.com)
 
 
 ### Skills
